@@ -59,6 +59,7 @@ header h1 {
 	border-bottom: 3px solid #77a466;
 	justify-content: center;
 	align-items: center;
+	padding: 38px 20px 20px 20px;
 }
 header h1 span {
 	color: #77a466;
